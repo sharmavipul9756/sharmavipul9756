@@ -1,6 +1,6 @@
-
-#### I'm Vipul Sharma from India.
-![I'm Vipul Sharma from India.](http://pngimg.com/uploads/github/github_PNG65.png)
+### Hi there 👋, Hiiii I'm Vipul Sharma
+#### I live in India
+![I live in India](https://i.pinimg.com/originals/7c/d3/f2/7cd3f2ba159286d17db4308c91552f9a.png)
 
  I am a full stack developer(frontend - reactjs ,backend - node js) 
 
@@ -14,6 +14,4 @@ Skills: ReactJs, Nodejs, Javascript, HTML, CSS
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/sharmavipul9756)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/vipul-sharma-0a56aa18b//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/sharmavipul9756//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/sharmavipul9756)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](www.teamdowhile.com)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg' alt='hackerrank' height='40'>](https://www.hackerrank.com/sharmavipul9756)  
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/sharmavipul9756)](https://github.com/anuraghazra/github-readme-stats)
 
