@@ -1,5 +1,4 @@
-### Hi there 👋
-### Hi there 👋, my name is Arturs
+
 #### I'm Vipul Sharma from India.
 ![I'm Vipul Sharma from India.](http://pngimg.com/uploads/github/github_PNG65.png)
 
